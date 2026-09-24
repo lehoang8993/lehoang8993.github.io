@@ -2,7 +2,7 @@
   "name": "react-example",
   "private": true,
   "version": "0.0.0",
-  "homepage": "https://https://lehoang8993.github.io",
+  "homepage": "https://lehoang8993.github.io",
   "type": "module",
   "scripts": {
     "dev": "vite --port=3000 --host=0.0.0.0",

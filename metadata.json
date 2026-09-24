@@ -1,0 +1,6 @@
+{
+  "name": "Lịch Âm Việt & Tử Vi Trọn Năm",
+  "description": "Tra cứu lịch âm dương chính xác, chuyển đổi ngày âm dương tức thì, xem tử vi 12 con giáp hàng ngày và cẩm nang chi tiết các ngày lễ truyền thống Việt Nam.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
